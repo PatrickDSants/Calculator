@@ -1,0 +1,32 @@
+@media screen and (max-width: 767px) {
+    a {
+        top: 10;
+        color: #492141;
+    }
+
+    .num {
+        width: 2rem;
+        height: 2.1rem;
+        text-align: center;
+    }
+
+    .text {
+        width: 8rem;
+        height: 2.1rem;
+    }
+
+    .text1 {
+        font-size: 1rem;
+        padding: 0.5rem;
+        width: 2rem;
+        height: 2.1rem;
+        text-align: center;
+        margin-left: 1rem;
+    }
+
+    input {
+        font-size: 1rem;
+        padding: 0.5rem;
+    }
+
+}

@@ -1,4 +1,4 @@
-<h1 align="center" id="Título-e-Imagem-de-capa"> Chronometer </h1>
+<h1 align="center" id="Título-e-Imagem-de-capa"> Calculator </h1>
 
 <a href= "https://patrickdsants.github.io/Calculator/">SITE HERE</a>
 
